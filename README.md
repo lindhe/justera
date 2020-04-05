@@ -61,3 +61,10 @@ The web front-end generally sounds boring so I'll delay that as much as possible
 
 https://www.bankid.com/bankid-i-dina-tjanster/rp-info
 
+
+## Misc
+
+TODO:
+* Double-check that BankID is compatible with GPL.
+* Read about open alternatives to BankID.
+
