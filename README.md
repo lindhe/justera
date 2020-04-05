@@ -57,6 +57,10 @@ Preferably also comment to make suggestions, but that sounds hard and would be a
 The web front-end generally sounds boring so I'll delay that as much as possible.
 
 
+## API
+
+Have started to outline an API definition here: https://app.swaggerhub.com/apis/lindhe/justera/
+
 ## Documentation
 
 https://www.bankid.com/bankid-i-dina-tjanster/rp-info
