@@ -49,6 +49,13 @@ Might make sense to translate hashes to something more human readable.
 Should be easy enough to create a translation service for that.
 
 
+### Acceptance
+
+When you have made your comments and are happy with the current version of a
+document, you can press a button to wait for _Acceptance_.
+Acceptance will notify you when all other adjusters are ready to sign.
+
+
 ### Web front-end
 
 Make it easy to view available documents, see revisions, and sign stuff.
