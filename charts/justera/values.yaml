@@ -19,3 +19,17 @@ securityContext: {}
 nodeSelector: {}
 tolerations: []
 affinity: {}
+
+############################     elasticsearch     ############################
+elasticsearch:
+  plugins:
+    - ingest-attachment
+
+################################     kibana     ################################
+kibana:
+  elasticsearch:
+    hosts:
+    - elasticsearch-elasticsearch-coordinating-only
+    port: 9200
+
+
