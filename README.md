@@ -5,6 +5,14 @@ I'll try to build one from scratch, but we'll see if I have the time to complete
 
 This is a very early version, and anything might change.
 
+## Goals
+
+* Easy to manage digitally
+* No essential information loss when printed
+
+## Non-goals
+
+TODO
 
 ## Subsystems
 
