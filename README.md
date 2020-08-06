@@ -9,6 +9,7 @@ This is a very early version, and anything might change.
 
 * Easy to manage digitally
 * No essential information loss when printed
+* Slack integration
 
 ## Non-goals
 
